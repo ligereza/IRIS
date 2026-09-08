@@ -17,6 +17,35 @@ exceptuadas comparten esa misma fecha). La fecha no aparece en el PDF de
 bases, por lo que de todas formas debe reconfirmarse en el portal una última
 vez al momento de enviar.
 
+## Repositorio vs. portal (agregado 2026-09-08)
+
+Separación explícita para el cierre final. No reemplaza ni reordena los
+bloqueos de abajo -- solo indica dónde vive cada cosa hoy.
+
+**Ya resuelto en este repositorio/cápsula** (rutas verificadas que existen
+en `anexos/PAQUETE_CANDIDATO_20260907/`, clasificación completa en su
+`MANIFEST.md`):
+
+- `ANEXO_01_DESCRIPCION_PROPUESTA.{md,html,pdf}` -- **listo** para adjuntar.
+- `FUP_IRIS_GENERADO.md` y este mismo `CHECKLIST_ENVIO.md` -- referencia
+  interna para preparar el envío, no son ellos mismos adjuntos.
+- `MANIFEST.md` -- hashes de los 7 archivos de la cápsula, verificados.
+- Narrativa, mapa de evidencia y estado del arte del expediente interno
+  (`../FONDART_2027_IRIS_REGIONAL_CREACION.md`, secciones 2-ter/2-quater),
+  re-verificados de forma independiente el 2026-09-08.
+
+**Pendiente de cargar/confirmar en el portal** (no resoluble desde el
+repositorio -- esto es lo que sigue abajo, ya existía, no se repite):
+
+- Los bloqueos P0 (identidad/Perfil Cultura, cartas firmadas de equipo y de
+  espacio, cotizaciones reales) -- ver la lista completa a continuación.
+- La revisión de plataforma (transcripción del FUP, formatos de archivo,
+  reconfirmación de fecha) -- ver "Revisión de plataforma" más abajo.
+- `ANEXO_02_MODELO_COMPROMISO_ESPACIO.md` y
+  `ANEXO_03_CARTAS_COMPROMISO_EQUIPO.md` están en la cápsula como
+  **plantillas sin firmar** (`MANIFEST.md` los marca "requiere operador") --
+  no son las cartas firmadas que el portal exige.
+
 ## Bloqueos P0 antes de enviar
 
 - [ ] Completar nombre legal, RUT, domicilio, correo y datos bancarios del/de
