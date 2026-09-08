@@ -180,6 +180,21 @@ formulario hasta medirla.
 > vínculos en `borradores/02-fondart-regional-creacion-artistica-2027-iris/CODIGO_Y_EVIDENCIA/archivo.json` --
 > evidencia complementaria, no un reemplazo de lo de abajo.
 
+> **Segunda re-verificación 2026-09-08 (auditoría independiente):** se releyó
+> `runs/RESULTS.md` directamente, sin depender del reporte del ciclo anterior,
+> y se confirmaron letra por letra las mismas cifras (12.332 artefactos, 128
+> observaciones, 512 candidatos, 174 unidades; `fit=abstain`;
+> `unexplained_output_deltas=0`; 11.534 assets internos y 0 con elegibilidad
+> pública). El propio `RESULTS.md` (sección "Límite real") registra además una
+> discrepancia de procedencia no resuelta: una descripción histórica anterior
+> de este mismo piloto hablaba de 417 artefactos, 11.916 observaciones y 413
+> candidatos, cifras que hoy no pueden verificarse porque su `/tmp` ya no
+> existe. El archivo es explícito en que no se ajustaron números para hacer
+> calzar ese reporte antiguo con el actual. Esa discrepancia queda como nota
+> de procedencia sobre una versión anterior, no como duda sobre las cifras
+> citadas arriba, que sí se confirmaron contra el archivo fuente en dos
+> sesiones independientes.
+
 `experiments/pilots/ARICA-FONDART-2027` (413 MB, con corpus de fuentes propio)
 es una corrida real de este sistema sobre esta convocatoria, ejecutada dos
 veces. Lo que quedó registrado en `runs/RESULTS.md`:
@@ -569,6 +584,14 @@ Contexto de la convocatoria:
 - La Tercera, reducciones y nuevas normas 2027: <https://www.latercera.com/culto/noticia/la-polemica-por-los-fondos-de-cultura/>
 - The Clinic, rediseño y rotación de proyectos: <https://www.theclinic.cl/2026/07/27/fondos-cultura-2027-el-giro-del-ministerio-para-evitar-la-concentracion-de-recursos-y-forzar-la-rotacion-de-proyectos/>
 - Ministerio, lanzamiento Fondos Cultura 2027: <https://www.cultura.gob.cl/convocatorias/ministerio-de-las-culturas-lanza-fondos-cultura-2027-con-rediseno-y-enfoque-ciudadano/>
+
+Re-verificación 2026-09-08 (auditoría independiente): las dos URLs de La
+Tercera y The Clinic de arriba, dejadas sin reconfirmar por el ciclo 12
+(2026-09-07 19:45) por límite de tiempo, se recuperaron hoy y su contenido
+coincide con lo descrito -- La Tercera (9 de agosto de 2026) cubre el recorte
+presupuestario y la nueva exclusión de contenidos; The Clinic (27 de julio de
+2026) cubre el rediseño y la rotación forzada de proyectos ganadores. Ya no
+queda ninguna fuente de esta lista sin reconfirmar.
 
 Estado del arte:
 
