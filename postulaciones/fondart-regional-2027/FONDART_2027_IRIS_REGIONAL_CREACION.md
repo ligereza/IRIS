@@ -7,7 +7,7 @@
 >
 > La obra postulada es la **Mesa de Montaje** que ya existe en MAK, nombrada
 > IRIS. No se construye una aplicación nueva. Definición canónica y mapa de
-> funciones: `docs/IRIS_CANONICAL.md`.
+> funciones: `/home/mak/docs/IRIS_CANONICAL.md` en el repositorio MAK.
 
 ## 1. Qué dicen las bases (verificado, no citado de memoria)
 

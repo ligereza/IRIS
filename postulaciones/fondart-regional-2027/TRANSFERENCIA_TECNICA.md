@@ -8,7 +8,7 @@ la postulación: no corresponde adjuntarlo al FUP.
 
 - Repositorio: `github.com/ligereza/IRIS` (privado)
 - Rama: `postulacion/fondart-regional-2027`
-- Commit: `d6bff19266ddd9838826213407b27bed18893615`
+- Commit: `e4cafd9887fffd17eb1e47ad684548cdb5bd4d41`
 - Rama no fusionada a `main` -- el operador decide cuándo/si abrir la PR.
 - Esta nota se agrega en el mismo commit que la publica; no modifica ningún archivo de entrega -- los comandos de comprobación de abajo se pueden ejecutar contra este mismo commit sin diferencia.
 
@@ -31,7 +31,7 @@ cd IRIS/postulaciones/fondart-regional-2027
 
 # Confirmar el commit publicado
 git log -1 --format=%H
-# -> d6bff19266ddd9838826213407b27bed18893615
+# -> e4cafd9887fffd17eb1e47ad684548cdb5bd4d41
 
 # Paginación del anexo listo para adjuntar
 pdfinfo anexos/PAQUETE_CANDIDATO_20260907/ANEXO_01_DESCRIPCION_PROPUESTA.pdf | grep Pages  # -> 4
